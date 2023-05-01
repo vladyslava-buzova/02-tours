@@ -2,8 +2,8 @@
 
 [Tours](https://www.figma.com/file/OnLoM3AzBFaHzSc2iolJS0/Tours?node-id=0%3A1&t=wiRXOlTLN5ehekYI-1)
 
-# Demo Link
-https://github.com/ErickKS/vite-deploy.git
+## Demo Link
+https://vladyslava-buzova.github.io/02-tours/
 
 ## Steps
 
